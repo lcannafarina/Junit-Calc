@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DivisorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-02-25T21:11:11" hostname="EN2010249" time="0.133">
+  <properties/>
+  <testcase name="dividirPor0RetornaElMismoNumeroA()" classname="DivisorTest" time="0.035"/>
+  <testcase name="testDivisionesPorMetodo(int, int, int)[1]" classname="DivisorTest" time="0.026"/>
+  <testcase name="testDivisionesPorMetodo(int, int, int)[2]" classname="DivisorTest" time="0.002"/>
+  <testcase name="testDivisionesPorMetodo(int, int, int)[3]" classname="DivisorTest" time="0.002"/>
+  <testcase name="testDivisionesPorMetodo(int, int, int)[4]" classname="DivisorTest" time="0.001"/>
+  <testcase name="testDivisionesPorMetodo(int, int, int)[5]" classname="DivisorTest" time="0.001"/>
+  <testcase name="dividir10Por2Retorna5()" classname="DivisorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

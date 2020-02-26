@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SumadorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-02-25T21:11:11" hostname="EN2010249" time="0.087">
+  <properties/>
+  <testcase name="probarLasDiferentesSumas(int, int, int)[1]" classname="SumadorTest" time="0.062"/>
+  <testcase name="probarLasDiferentesSumas(int, int, int)[2]" classname="SumadorTest" time="0.003"/>
+  <testcase name="probarLasDiferentesSumas(int, int, int)[3]" classname="SumadorTest" time="0.003"/>
+  <testcase name="probarLasDiferentesSumas(int, int, int)[4]" classname="SumadorTest" time="0.002"/>
+  <testcase name="probarLasDiferentesSumas(int, int, int)[5]" classname="SumadorTest" time="0.002"/>
+  <testcase name="probarLasDiferentesSumas(int, int, int)[6]" classname="SumadorTest" time="0.002"/>
+  <testcase name="probarLasDiferentesSumas(int, int, int)[7]" classname="SumadorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
